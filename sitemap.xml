@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://examprep.life/</loc>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Main Exam Categories (Top-Level Nav) -->
+  <url>
+    <loc>https://examprep.life/ssc</loc>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://examprep.life/banking</loc>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://examprep.life/railway</loc>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://examprep.life/upsc</loc>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://examprep.life/neet</loc>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://examprep.life/jee</loc>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://examprep.life/defence</loc>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Defence Sub-Exams (CRPF, Army, RPF, etc.) -->
+  <!-- These are now included because they are major navigation points -->
+  <url>
+    <loc>https://examprep.life/defence/crpf</loc>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://examprep.life/defence/army</loc>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://examprep.life/defence/rpf</loc>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://examprep.life/defence/bihar-police</loc>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://examprep.life/defence/up-police</loc>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Resource Type Pages -->
+  <url>
+    <loc>https://examprep.life/resources/test-series</loc>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://examprep.life/resources/pdf</loc>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://examprep.life/resources/previous-year-papers</loc>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://examprep.life/resources/short-tricks</loc>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://examprep.life/resources/videos</loc>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- High-Value Content -->
+  <url>
+    <loc>https://examprep.life/jee/mains/formula-handbook</loc>
+    <lastmod>2025-08-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://examprep.life/ssc/cgl/test-series</loc>
+    <lastmod>2025-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://examprep.life/upsc/prelims/test-series</loc>
+    <lastmod>2025-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://examprep.life/neet/biology/revision-notes</loc>
+    <lastmod>2025-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Static Pages -->
+  <url>
+    <loc>https://examprep.life/about</loc>
+    <lastmod>2025-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://examprep.life/contact</loc>
+    <lastmod>2025-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://examprep.life/privacy-policy</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://examprep.life/terms-conditions</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+<!-- Articles & Affairs -->
+  <url><loc>https://examprep.life/articles/affairs/20-crore-fraud.html</loc></url>
+  <url><loc>https://examprep.life/articles/affairs/viral-social-media.html</loc></url>
+  <url><loc>https://examprep.life/articles/education/bihar-police-result.html</loc></url>
+  <url><loc>https://examprep.life/articles/education/bpssc-bihar.html</loc></url>
+  <url><loc>https://examprep.life/articles/education/delhi-police.html</loc></url>
+  <url><loc>https://examprep.life/articles/education/ssc-mts</loc></url>
+  <url><loc>https://examprep.life/articles/festivals/navratri-colour-coding.html</loc></url>
+  <url><loc>https://examprep.life/articles/tech-news/AI-IN-CLASS.html</loc></url>
+  <url><loc>https://examprep.life/articles/tech-news/innovation-launched.html</loc></url>
+  <url><loc>https://examprep.life/articles/tech-news/jsw-motors.html</loc></url>
+  <url><loc>https://examprep.life/articles/tech-news/ubber-cancillation.html</loc></url>
+  <url><loc>https://examprep.life/articles/tech-news/whatsapp-translation.html</loc></url>
+  <url><loc>https://examprep.life/articles/article.html</loc></url>
+
+  <!-- SSC Sub Pages -->
+  <url><loc>https://examprep.life/ssc/question-bank/26-9-25.html</loc></url>
+
+  <!-- Shopping Pages -->
+  <url><loc>https://examprep.life/shopping/clothing/magic-towel.html</loc></url>
+  <url><loc>https://examprep.life/shopping/city-gold-mangalsutra</loc></url>
+  <url><loc>https://examprep.life/shopping/combo-bags</loc></url>
+  <url><loc>https://examprep.life/shopping/combo-earrings</loc></url>
+  <url><loc>https://examprep.life/shopping/ear-buds.html</loc></url>
+  <url><loc>https://examprep.life/shopping/engagement-set</loc></url>
+  <url><loc>https://examprep.life/shopping/insta-combo</loc></url>
+  <url><loc>https://examprep.life/shopping/jens-braclet</loc></url>
+  <url><loc>https://examprep.life/shopping/skin-tight</loc></url>
+
+  <!-- Tools & Services -->
+  <url><loc>https://examprep.life/AI-video-editor</loc></url>
+  <url><loc>https://examprep.life/animelt-AI-photo-editor</loc></url>
+  <url><loc>https://examprep.life/best-service-center</loc></url>
+  <url><loc>https://examprep.life/classic-pacman-arcade-online</loc></url>
+  <url><loc>https://examprep.life/cylinder-in-sphere</loc></url>
+  <url><loc>https://examprep.life/easy-science-experiments-school-exhibition</loc></url>
+  <url><loc>https://www.examprep.life/indian-army-links</loc></url>
+
+  <!-- Keep your existing static pages like about, contact, etc. -->
+
+</urlset>
