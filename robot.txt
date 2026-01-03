@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+
+# Block unnecessary or duplicate paths
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+Disallow: /search
+Disallow: /*?*       # Prevent crawling of URL parameters unless needed
+Disallow: /*&*
+
+# Allow CSS, JS, and image files for rendering
+Allow: /wp-content/uploads/
+Allow: /wp-includes/js/
+Allow: /wp-includes/css/
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Allow: /*.webp$
+Allow: /*.svg$
+
+# Sitemap
+Sitemap: https://examprep.life/sitemap.xml
